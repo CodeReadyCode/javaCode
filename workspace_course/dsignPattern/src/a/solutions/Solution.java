@@ -1,10 +1,9 @@
-package amazon.solutions;
+package a.solutions;
 import java.util.*;
 
 public class Solution
 { 
-	// METHOD SIGNATURE BEGINS, THIS METHOD IS REQUIRED
-	// RETURN "null" IF NO ITEM ASSOCIATION IS GIVEN
+	
 	
 	List<String> longerPath =  new ArrayList<>();
 	

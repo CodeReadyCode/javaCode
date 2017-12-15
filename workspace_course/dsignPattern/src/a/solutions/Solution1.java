@@ -1,13 +1,9 @@
-package amazon.solutions;
+package a.solutions;
 import java.util.*;
-// IMPORT LIBRARY PACKAGES NEEDED BY YOUR PROGRAM
-// SOME CLASSES WITHIN A PACKAGE MAY BE RESTRICTED
-// DEFINE ANY CLASS AND METHOD NEEDED
-// CLASS BEGINS, THIS CLASS IS REQUIRED
+
 public class Solution1
 {        
-    // METHOD SIGNATURE BEGINS, THIS METHOD IS REQUIRED
-    // RETURN AN EMPTY LIST IF NO ANAGRAM FOUND
+
     public List<Integer> getAnagramIndices(String haystack, String needle)
     {
         
